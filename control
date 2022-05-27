@@ -1,0 +1,9 @@
+Package: com.twotrees.springalloc
+Name: SpringAlloc
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: twotrees
+Author: twotrees
+Section: Tweaks
